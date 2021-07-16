@@ -1,1 +1,1 @@
-# fvv_workshop_2021_aka_public
+# [Volumetric video workshop](https://jtomori.github.io/fvv_workshop_2021_aka_public/)
